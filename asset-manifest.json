@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/robo-test/static/css/main.d3c1ea71.chunk.css",
+    "main.js": "/robo-test/static/js/main.c1455c53.chunk.js",
+    "main.js.map": "/robo-test/static/js/main.c1455c53.chunk.js.map",
+    "runtime-main.js": "/robo-test/static/js/runtime-main.56301255.js",
+    "runtime-main.js.map": "/robo-test/static/js/runtime-main.56301255.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/robo-test/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.508a8850.chunk.js": "/robo-test/static/js/2.508a8850.chunk.js",
+    "static/js/2.508a8850.chunk.js.map": "/robo-test/static/js/2.508a8850.chunk.js.map",
+    "index.html": "/robo-test/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/robo-test/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.d3c1ea71.chunk.css.map": "/robo-test/static/css/main.d3c1ea71.chunk.css.map",
+    "static/js/2.508a8850.chunk.js.LICENSE.txt": "/robo-test/static/js/2.508a8850.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robo-test/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56301255.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.508a8850.chunk.js",
+    "static/css/main.d3c1ea71.chunk.css",
+    "static/js/main.c1455c53.chunk.js"
+  ]
+}
